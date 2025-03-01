@@ -13,7 +13,7 @@ A Single AND Gate.
 
 ## How to test
 
-A Single AND Gate.
+A Single LED Connected To The OUTPUT.
 
 ## External hardware
 
